@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project demonstrates how SQL can be integrated with Python to perform end-to-end data analysis on an e-commerce dataset. It focuses on extracting meaningful business insights using structured queries and visualizations.
+This project demonstrates how SQL can be integrated with Python to perform end-to-end data analysis on an e-commerce dataset which is available on kaggle named as online retial dataset (https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset). It focuses on extracting meaningful business insights using structured queries and visualizations.
 
 ---
 
